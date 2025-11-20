@@ -90,10 +90,10 @@ def load_retrieval_system():
         
         # Auto-Switch Model berdasarkan dimensi index
         if disk_dim == 512:
-            print("⚡ Switching to CLIP-BASE (512) to match index.")
+            print("Switching to CLIP-BASE (512) to match index.")
             Config.RETRIEVAL_MODEL = "openai/clip-vit-base-patch32"
         elif disk_dim == 768:
-            print("🚀 Switching to CLIP-LARGE (768) to match index.")
+            print("Switching to CLIP-LARGE (768) to match index.")
             Config.RETRIEVAL_MODEL = "openai/clip-vit-large-patch14"
         else:
             st.warning(f"Unknown index dimension: {disk_dim}. Keeping default.")
@@ -181,7 +181,7 @@ def generate_context(images_data, blip_processor, blip_model):
             raw_image = Image.open(img_path).convert('RGB')
             inputs = blip_processor(images=raw_image, return_tensors="pt").to(Config.DEVICE, dtype)
             
-            # [IMPROVED] Beam Search
+            # Beam Search
             with torch.no_grad():
                 out = blip_model.generate(
                     **inputs, 
