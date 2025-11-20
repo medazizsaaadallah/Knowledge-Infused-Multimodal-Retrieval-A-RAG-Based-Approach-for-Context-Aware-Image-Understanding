@@ -93,6 +93,29 @@ graph LR
     end
 ```
 
+### 3. RAG Methodology 
+
+This system uses a Retrieve-Then-Generate architecture with a multimodal approach (text & images). The workflow is divided into two main phases: Image Retrieval & Generative Component
+
+```mermaid
+graph TD
+    subgraph "I. Image Retrieval (Pencarian)"
+    A[User Input: Query Teks] -->|Encode| B(CLIP Text Encoder)
+    DB[(Flickr30k Dataset)] -->|Pre-compute| C(CLIP Image Encoder)
+    C -->|Vectors| D{FAISS Vector DB}
+    B -->|Search Vector| D
+    D -->|Top-K Results| E[Retrieval: 5 Gambar Relevan]
+    end
+
+    subgraph "II. Generative & Reasoning"
+    E -->|Input Image| F[BLIP-2 Model]
+    F -->|Image Captioning| G[Context: Deskripsi Teks Visual]
+    A -->|Prompt Gabungan| H(Llama-3 Generator)
+    G -->|Context Injection| H
+    H -->|Reasoning| I[Final Output: Jawaban AI]
+    end
+```
+
 ## ⚙️ Technology Stack & Parameters
 
 This project uses a specific set of SOTA (State-of-the-Art) models and libraries. The parameters below detail the choices made for each component of the pipeline as per the final project requirements.
